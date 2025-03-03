@@ -1,0 +1,11 @@
+ Target Retail Market Analysis and Strategic Recommendations Using Data-Driven Insights
+
+Conducted an extensive research study analyzing Target's sales decline since 2020 by leveraging a structured quantitative methodology. Designed and distributed a survey that gathered 101 responses, incorporating 16 questions to capture consumer behavior, preferences, and demographic insights. Extracted key purchasing drivers such as pricing, location, product variety, and promotions, using Tableau for comprehensive data visualization.
+
+Applied hypothesis testing to evaluate the impact of Target’s pricing strategy and its correlation with shopping frequency, identifying that 59% of respondents shop at Target monthly, with price as the top factor influencing purchase decisions. Examined the relationship between Target’s RedCard usage and consumer loyalty, uncovering that 27% of customers do not utilize the program, indicating potential engagement opportunities.
+
+Developed insights on consumer preferences, revealing that while Target dominates in shopping experience (38/79), Amazon leads in product variety (43/79) and Walmart in pricing (33/79). Evaluated shifts in shopping habits, noting that a significant portion of customers prefer online shopping (35/46), yet in-store shopping maintains a higher satisfaction rating (3.64 average score). Analyzed demographic trends, with the 18-26 age group forming the largest segment (39/76).
+
+Created interactive Tableau dashboards to present findings and visually map emerging trends, including a detailed breakdown of consumer perception regarding in-house brands, where 50% of respondents were unclear about shopping these brands. Identified strategic areas for Target to strengthen its competitive edge, such as aggressive pricing, exclusive partnerships, and digital platform enhancements.
+
+Formulated data-backed business recommendations that included expanding in-house product lines, improving online platform navigation, optimizing stock availability, and strengthening Target’s omnichannel presence. Provided actionable insights to enhance customer engagement, improve market positioning, and drive sustainable sales growth amidst evolving retail dynamics.
